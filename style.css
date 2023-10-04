@@ -1,0 +1,32 @@
+.pismenko {
+color: #008080;
+font-size: 30pt;
+font-weight: bold;
+}
+.nadpis{
+color: red;
+font-size: 50pt;
+font-weight: bolder;
+}
+ul{
+color:green;
+font-size: 15pt;
+}
+p{
+color:purple;
+font-family: Comic Sans Ms;
+}
+table,
+td {
+  border: 1px solid #333;
+}
+
+thead,
+tfoot {
+  background-color: #333;
+  color: #fff;
+}
+img{
+border-radius: 190px;
+width: 200px;
+}
